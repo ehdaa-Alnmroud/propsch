@@ -1,0 +1,114 @@
+* {
+  font-family: "Montserrat Alternates", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+span {
+  color: #f082ac;
+  font-size: 20px;
+}
+h2{
+  margin: 10px 0;
+  
+}
+
+/* the  nav bar react-boots stayl */
+
+.navbar-brand {
+  margin-left: 200px;
+  color: #f082ac !important;
+}
+.nav-link {
+  color: black !important;
+}
+.nav-link:hover {
+  color: #f082ac !important;
+}
+.container {
+  margin-left: 30px !important;
+  margin-right: 50px !important;
+}
+.form-control {
+  width: 200px !important;
+}
+.d-flex {
+  margin-right: 30px !important;
+}
+.bu {
+  background-color: #f082ac !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 5px !important;
+}
+.bu:hover {
+  background-color: #f5a0c1 !important;
+}
+/* ******************************************************************* */
+
+/* the  */
+.Superhero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Superheroimg {
+  width: 40%;
+}
+.haro {
+  color: #f082ac;
+}
+/* *********************card div******************** */
+.cadr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-left: 30px;
+  
+}
+.card {
+  width: 350px !important;
+  height: 600px !important;
+  padding: 10px !important;
+}
+.card-body {
+  padding: 0 !important;
+}
+.cardPos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 50px;
+}
+.m {
+  padding: 10px;
+}
+.mybu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 80px;
+}
+.buttonpos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+/* the footer stayl */
+.footer {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #F8F9FA;
+  padding: 5px;
+}
+.footer span{
+  margin: 12px 0;
+}
+.b{
+  margin-top: 50px;
+}
